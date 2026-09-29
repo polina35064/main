@@ -12,6 +12,11 @@ public class Main {
 
     }
 
+    private static class Adder {
+        public boolean add(int i, int i1) {
+        }
+    }
+
 
     System.out.println(subtractor.subtract(6, 3));
 }
